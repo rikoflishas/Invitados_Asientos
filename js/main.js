@@ -46,5 +46,5 @@ let findCouple = (arr) =>
     }
     return null; // si no se encuentra ningún par
 }
-
+console.log(guests);
 console.log(findCouple(guests));
